@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AnimationsInAndroid</string>
+    <string name="app_name">Haze or the Tortoise(tic tac toe)</string>
+    <string name="haze_or_tortoise">Haze or Tortoise?</string>
 </resources>
